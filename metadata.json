@@ -1,0 +1,6 @@
+{
+  "name": "Mugithi Grand Hotel Management System",
+  "description": "Enterprise Hotel Management System (MGHMS) for Mugithi Grand Hotel, Kalimoni, Juja, Kenya. Complete room inventory, reservations, guest registry, front office check-in/out, KES billing, M-Pesa payments, housekeeping, and operational reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
